@@ -8,5 +8,8 @@
 #import "pdm_crypt.h"
 
 @implementation pdm_crypt
-
+- (NSString* ) get_hash:( NSString * )a
+{
+   
+}
 @end
